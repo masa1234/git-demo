@@ -1,5 +1,7 @@
 # 今日の学び
 
+## 8月11日
+
 - gitの練習
 
 - git init
@@ -10,3 +12,13 @@
 - git branch -M main
 - git remote add origin git@github.com:masa1234/git-demo.git
 - git push -u origin main
+
+## 8月12日
+
+- Spring Bootの学習
+
+1. Spring Bootに関する概念理解
+2. Spring Bootを活用するための環境構築
+3. MVCモデルの基本に関する実践学習
+4. Spring Bootの基本機能に関する実践学習
+5. Spring Bootアプリの品質を高めるための学習
