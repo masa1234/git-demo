@@ -31,3 +31,7 @@
   - View　画面表示の役割を行う。
     Spring BootではThymeleafを活用したりする。
   - Controller　アプリの制御を担当する。モデルやビューへの支持を出すのが主な役割となる。
+
+- EclipseにEmmetを導入する
+  - 「ヘルプ」➡「新規ソフトウェアのインストール」
+    画面が開くので「作業対象」に　「http://emmet.io/eclipse/updates/」　を「追加」
