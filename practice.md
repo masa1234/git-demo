@@ -16,9 +16,18 @@
 ## 8月12日
 
 - Spring Bootの学習
+  - Spring Bootに関する概念理解
+  - Spring Bootを活用するための環境構築
+  - MVCモデルの基本に関する実践学習
+  - Spring Bootの基本機能に関する実践学習
+  - Spring Bootアプリの品質を高めるための学習
 
-1. Spring Bootに関する概念理解
-2. Spring Bootを活用するための環境構築
-3. MVCモデルの基本に関する実践学習
-4. Spring Bootの基本機能に関する実践学習
-5. Spring Bootアプリの品質を高めるための学習
+## 8月13日
+
+- Spring Boot MVCモデルの学習
+  - MODEL　データベースとの接続に関するやり取りを行う。
+    データベースとのデータ作成、読み取り、更新、削除を行う。
+    データのチェック、金額計算なども実施すする
+  - View　画面表示の役割を行う。
+    Spring BootではThymeleafを活用したりする。
+  - Controller　アプリの制御を担当する。モデルやビューへの支持を出すのが主な役割となる。
