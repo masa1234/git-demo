@@ -47,3 +47,9 @@
     - データベース操作の前後にデータの加工やチェックを行う
       （例：データ登録前にデータが不正でないかチェックする）
     - @Transactionalアノテーションをつけて、複数データを更新するときにトランザクションを実現する
+
+## 8月15日の学習
+
+- Spring Boot MVCモデルの学習
+  - モデルはEntity、Repository、Serviceの3つの役割で構成されることを学習した。
+  - Springの場合RepositoryはJPAでインタフェースとして実装され、ServiceはRepositoryを呼び出すことで操作する。
