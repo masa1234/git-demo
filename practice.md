@@ -52,4 +52,6 @@
 
 - Spring Boot MVCモデルの学習
   - モデルはEntity、Repository、Serviceの3つの役割で構成されることを学習した。
-  - Springの場合RepositoryはJPAでインタフェースとして実装され、ServiceはRepositoryを呼び出すことで操作する。
+  - RepositoryはJPAでインタフェースとして実装され、ServiceはRepositoryを呼び出すことで操作する。
+  - Entityはテーブルの１行１行を実体化し、カラムへのアクセス手段を提供する。
+    Entityには各フィールドとGetter、Setterを実装する。
