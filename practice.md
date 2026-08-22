@@ -55,3 +55,8 @@
   - RepositoryはJPAでインタフェースとして実装され、ServiceはRepositoryを呼び出すことで操作する。
   - Entityはテーブルの１行１行を実体化し、カラムへのアクセス手段を提供する。
     Entityには各フィールドとGetter、Setterを実装する。
+
+## 8月22日の学習
+- Emmetの使い方を学習
+https://docs.emmet.io/cheat-sheet/
+
