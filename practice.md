@@ -57,6 +57,12 @@
     Entityには各フィールドとGetter、Setterを実装する。
 
 ## 8月22日の学習
-- Emmetの使い方を学習
-https://docs.emmet.io/cheat-sheet/
 
+- Emmetの使い方を学習
+  https://docs.emmet.io/cheat-sheet/
+
+## 8月23日の学習
+
+- コードスニペット
+  キーを短い文字で展開して入力の効率化
+  再利用の自由、品質の向上を実現する
